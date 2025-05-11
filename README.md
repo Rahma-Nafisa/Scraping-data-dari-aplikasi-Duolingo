@@ -1,0 +1,1 @@
+# Scraping-data-dari-aplikasi-Duolingo
